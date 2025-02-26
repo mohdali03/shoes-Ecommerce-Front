@@ -1,6 +1,7 @@
 // import { API_URL, STRAPI_API_TOKEN } from "./urls";
-NEXT_PUBLIC_API_URL = process.env.NEXT_PUBLIC_API_URL
+API_URL = process.env.NEXT_PUBLIC_API_URL
 STRAPI_API_TOKEN = process.env.NEXT_PUBLIC_STRAPI_API_TOKEN
+
 export const fetchDataFromApi = async (endpoint) => {
     const options = {
         method: "GET",
