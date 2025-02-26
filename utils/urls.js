@@ -1,0 +1,2 @@
+export const API_URL = "http://localhost:1337"; // Change this if deployed
+export const STRAPI_API_TOKEN = "e4df78cf695b58dcd0af61a34c70d6211f62b6abda7433e085f7f6b1f439f7d008f6236c9ed3dd09adde0f6e00fb5f391be6f4432a2d62224d410ec57e7719f80b7a8ca66028ddac36b67bcc9ce3a76490557d2362d2271ae9e78e093bf2ed5bd94edd1c819d1d81b18b80c5a1cd36b11520ba2b0aa4a782d7892da2ef638083";
